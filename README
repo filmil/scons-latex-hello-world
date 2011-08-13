@@ -16,9 +16,26 @@ scons
 
 (yes, it's that easy)
 
+This will produce a file called hello-world.pdf that contains the end
+result of the compilation.  There will be interim files too, but for
+this simple example you don't care about them.
+
 Cleaning
 ~~~~~~~~
 
 scons -c
 
 (yes, it's that easy)
+
+This will remove all interim files from the source directory, leaving
+only the source files and the build system files.
+
+Actually there will be a hidden scons database, but we don't care
+about it as it is a dot-prefixed filename that is normally not seen in
+the directory listing.
+
+Contact
+~~~~~~~
+
+Suggestions et al:
+filmil at gmail dot com
