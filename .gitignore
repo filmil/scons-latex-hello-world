@@ -1,0 +1,7 @@
+.sconsign.dblite
+*~
+*.aux
+*.dvi
+*.fls
+*.log
+*.pdf
