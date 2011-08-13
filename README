@@ -1,0 +1,24 @@
+scons and LaTeX Hello World.
+============================
+
+This is a minimal LaTeX project that uses scons as its build system.
+
+Preconditions
+~~~~~~~~~~~~~
+
+1. Ensure that scons is installed on your system.
+2. Ensure that latex is installed correctly on your system.
+
+Building
+~~~~~~~~
+
+scons
+
+(yes, it's that easy)
+
+Cleaning
+~~~~~~~~
+
+scons -c
+
+(yes, it's that easy)
